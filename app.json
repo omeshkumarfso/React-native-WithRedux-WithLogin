@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "YogicVivah",
+    "slug": "YogicVivah",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "YogicVivah"
+}
